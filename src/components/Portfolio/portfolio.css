@@ -1,0 +1,19 @@
+.card {
+    border: 1.5px solid black;
+    padding: 5px;
+    margin: 5px;
+}
+
+.card img {
+    border: .6px solid black;
+}
+
+.card-header-title {
+    font-family: 'Marvel', sans-serif;
+    font-size: 24px;
+    text-decoration: underline;
+}
+
+.card-footer {
+    font-size: 12px;
+}

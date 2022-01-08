@@ -1,19 +1,15 @@
 .portrait {
-    border: 1px solid black;
-    border-radius: 15px 50px 30px;
+    border: 3px solid black;
+    border-radius: 10px 70px 10px;
     max-width: 60%;
     margin: 5px;
-    filter: grayscale(20%)
+    filter: grayscale(10%)
 }
 
 .aboutme {
-    margin: 5px;
-}
-
-.roundportrait {
-    border-radius: 50%;
-    border: 1px solid black;
-    max-width: 60%;
-    margin: 5px;
-    filter:hue-rotate(30%)
+    margin: 10px;
+    border: 3px solid black;
+    padding-left: 10px;
+    border-radius: 10px 70px 10px;
+    padding: 20px;
 }

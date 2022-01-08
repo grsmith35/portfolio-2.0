@@ -20,6 +20,14 @@ header {
   justify-content: flex-end;
 }
 
+.name {
+  font-weight: bolder;
+}
+
+.flex-start {
+  justify-content: flex-start;
+}
+
 .flex-row {
   display: flex;
   flex-wrap: wrap;

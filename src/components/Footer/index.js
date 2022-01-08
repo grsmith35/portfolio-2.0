@@ -1,4 +1,5 @@
 import React from 'react';
+import './footer.css'
 
 function Footer() {
     const socialMedia = [
@@ -17,21 +18,22 @@ function Footer() {
     ]
     
     return (
-        <div>
-            <ul className="nodotsul flex-row flex-end">
+        <footer className="footer is-flex-wrap-wrap">
+            <div className="flex-start">Made by <span className="name">Riley Smith</span></div>
+            <div className="flex-row flex-end">
                         {socialMedia.map((site) => (
-                            <li key={site.name}>
-                                <a href="#">
+                            <div key={site.name} className="mx-3">
+                                <a href={site.source}>
                                     <img src={require(`../../assets/icons/${site.name}.png`).default}
                                         alt={site.name}
                                         className="socialmedia"
                                         key={site.name}
                                         />
                                 </a>
-                            </li>
+                            </div>
                         ))}
-                    </ul>
-        </div>
+                    </div>
+        </footer>
     )
 }
 

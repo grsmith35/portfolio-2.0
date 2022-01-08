@@ -1,8 +1,25 @@
 .navoption {
     color: black;
+    font-family: 'Marvel', sans-serif;
+    font-size: 20px;
+    padding: 10px;
 }
 
 .selectednavoption {
     color: red;
     font-weight: bolder;
+}
+
+.myname {
+    font-size: 50px;
+    font-family: 'Marvel', sans-serif;
+    font-weight: bolder;
+}
+
+header {
+    border-bottom: 3px solid black;
+}
+
+.coreicon {
+    padding: 5px;
 }
