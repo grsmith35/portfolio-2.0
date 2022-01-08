@@ -1,0 +1,8 @@
+.navoption {
+    color: black;
+}
+
+.selectednavoption {
+    color: red;
+    font-weight: bolder;
+}
