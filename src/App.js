@@ -3,8 +3,10 @@ import './App.css';
 import Nav from './components/Nav';
 import About from './components/About';
 import Footer from './components/Footer';
+import React from 'react';
 
 function App() {
+
   return (
     <div>
       <Nav></Nav>
