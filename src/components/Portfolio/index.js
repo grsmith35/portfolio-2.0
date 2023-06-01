@@ -14,42 +14,42 @@ export default function Portfolio() {
             "repository": "https://github.com/GarciaE89/text-me-today",
             "img": textme,
             "link": "https://garciae89.github.io/text-me-today/",
-            "description": "Text-me-Today was a project I build with some classmates. This site was meant to help remind people of things they may have coming up. It could send a reminder, send a joke, or tell you what the weather will be like later that day. This project was built with HTML, CSS, and bootflat for styling and JavaScript."
+            "description": "Text-me-Today was a collaborative project I worked on with classmates, aimed at providing helpful reminders to individuals for upcoming events. This innovative website had the capability to send reminders, share amusing jokes, and provide weather forecasts for the day. Leveraging HTML, CSS, and bootflat for stylish design elements, along with JavaScript for functionality, we successfully developed a user-friendly solution to keep users informed and entertained."
         },
         {
             "name": "Riley's Kitchen",
             "repository": "https://github.com/jeshuasalgado/Project2",
             "img": kitchen,
             "link": "https://rileys-kitchen.herokuapp.com/login",
-            "description": "Riley's Kitchen was a project I built with class mates during my coding bootcamp. It was built to be a source for restaurants to see what dishes they were offering to customers and what ingredients each required. The idea was to provide an inventory list to restaurants so they could later track what they had and make sure they had all needed ingredients. We used JavaScript and handlebars with bootstrap for the front-end. Then we used node.js for the backend, and SQL for the database."
+            "description": "During my coding boot camp, I collaborated with classmates to develop Riley's Kitchen, a platform for restaurants to showcase their menu items and track required ingredients. Using JavaScript, handlebars, and Bootstrap for the front end, along with node.js and SQL for the backend and database respectively, we created an efficient solution for inventory management."
         },
         {
             "name": "AdoptABLE",
             "repository": "https://github.com/austinxewell/adoptABLE",
             "img": adoptable,
             "link": "https://adoptable-dv.herokuapp.com/",
-            "description": "AdobtABLE was the final project build with class mates for my coding bootcamp. It was built to be a help to victims of domestic violence. The site would provide victims with a place to request help. They could put in needs and other users could go in and see those needs to either provide goods or money. We also included a chat feature so donors could discuss with the victims for meet ups or additional help. We built the project using React.js for the front-end and bootstrap for the styling. We then used node.js for the back-end and mongodb for the database."
+            "description": "AdobtABLE, my final project during the coding bootcamp, was a collaborative effort with classmates to support victims of domestic violence. This website provided a platform for victims to request help, allowing users to fulfill their needs through donations of goods or money. With React.js for the front-end, Bootstrap for styling, node.js for the back-end, and MongoDB as the database, AdobtABLE offered a comprehensive solution to aid and empower those affected by domestic violence."
         },
         {
             "name": "Budget Tracker",
             "repository": "https://github.com/grsmith35/budget-tracker",
             "img": budget,
             "link": "https://budgettrakerrsmith.herokuapp.com/",
-            "description": "This application is built for people who are always on the go, but also trying to stick to their budget. Sometimes you have service and sometimes you have a weak or no signal at all. This app allows users to keep track of their money even when there is no service. This project was built using HTML, JavaScript, and CSS."
+            "description": "This application caters to individuals who lead busy lifestyles and prioritize budget management. It addresses the challenge of fluctuating network connectivity by enabling users to track their finances even in the absence of a strong signal. Built with HTML, JavaScript, and CSS, this project offers a user-friendly solution for monitoring and managing money on the go."
         },
         {
             "name": "Resume Builder",
             "repository": "https://github.com/grsmith35/yesresume",
             "img": resumebuilder,
             "link": "",
-            "description": "Resume Builder was a project I built for my last company, Your Employment Solutions. The company specializes in placing blue collar workers on jobs. Some of those jobs sometimes required a resume. This became a hurdle for many of the candidates and the company asked to have a tool that could help either the recruiter or the applicants speed up the resume building process. The applicants would fill out all the information and click create resume, it would then create a PDF format resume and download it right to the computer. The company wanted to keep track of the users that were using the application so it has a mongodb database to track applicants name, email, and date of use. The site was built using React.js and bootstrap for styling. Then is uses node.js for the back-end and mongodb for the database."
+            "description": 'Resume Builder was a project developed for Your Employment Solutions, a company specializing in blue-collar job placements. As some of these jobs required resumes, it posed a hurdle for many candidates. In response, I built a tool to expedite the resume building process for either recruiters or applicants. Users could input their information, click "create resume," and the application would generate a downloadable PDF format resume. To track user activity, the application utilized a MongoDB database to store applicant names, emails, and usage dates. The site was constructed using React.js and Bootstrap for stylish design elements. Node.js served as the back-end technology, seamlessly integrating with MongoDB to provide a comprehensive solution for resume generation and user data management.'
         },
         {
             "name": "Task Master Pro",
             "repository": "https://github.com/grsmith35/taskmaster-pro",
             "img": taskmaster,
             "link": "https://grsmith35.github.io/taskmaster-pro/",
-            "description": "Task Master Pro is a simple task tracker that allows users to create tasks and track the status of each. Features the ability to drag and drop the tasks from one section to another to keep track of each status."
+            "description": "Task Master Pro is a streamlined task tracker designed to empower users in creating and monitoring their tasks effectively. This intuitive application allows users to easily create tasks and track their status. With the ability to drag and drop tasks between different sections, users can effortlessly keep tabs on the progress of each task. Task Master Pro simplifies task management and offers a seamless experience for organizing and monitoring tasks with ease. This was built with HTML, JavaScript, and CSS."
         }
     ]
 

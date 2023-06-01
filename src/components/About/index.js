@@ -7,9 +7,22 @@ function About() {
         <div className="container columns m-3">
             <div className="column is-5 aboutme">
                 <h3>A bit about Me!</h3>
-                <div>I am a hard working, dedicated, and motivated person! I am always pushing to become better in whatever it is I am doing. I never want to settle for mediocrity!</div>
-                <div>For the last year and a half I have been a front-end developer for a company that has a reservation booking/tracking software used all over the world. Before that I worked in IT for 6 years at a staffing agency. While working there I saw people waste time on repetitive tasks and looked for ways to automate those tasks. This started my journey with coding. I started writing python scripts for co-workers to use to help convert spreadsheets, send text messages, and create job templates. All the other tasks in my job became boring and I was always looking for new coding projects. I found the University of Utah Full Stack Bootcamp in May of 2021 and decided to shift my career in this new direction.</div>
-                <div>I love being with people I care about, whatever that includes; from playing board games, to getting outdoors for something adventurous.</div>
+                <div>
+I am driven by an unwavering work ethic, unyielding dedication, and an insatiable drive for personal growth. I continuously strive to surpass my own limits and excel in any endeavor I undertake, refusing to settle for anything less than excellence.</div>
+                <div>
+                &nbsp;
+
+                    <p>
+                    For the past year and a half, I have had the incredible opportunity to serve as a front-end developer for a globally utilized reservation booking and tracking software within a prominent company. Prior to this role, I amassed 6 years of experience in IT at a staffing agency. During my tenure there, I observed colleagues investing valuable time in repetitive tasks, igniting my passion for seeking automation solutions. This marked the inception of my coding journey.
+                    </p>
+                    &nbsp;
+                    <p>
+                    Driven by a desire to optimize efficiency, I began crafting Python scripts to assist my co-workers in converting spreadsheets, dispatching text messages, and generating job templates. As I delved deeper into coding, the other responsibilities in my job grew monotonous, leaving me constantly yearning for fresh coding projects. It was during this period that I fortuitously discovered the University of Utah Full Stack Bootcamp in May of 2021, prompting me to redirect my career path towards this exciting new direction.
+                    </p>
+                </div>
+                &nbsp;
+
+                <div>My passions are my people and my code!</div>
                 
             </div>
             <div className="column is-5">
