@@ -7,16 +7,9 @@ import React from 'react';
 import Portfolio from './components/Portfolio';
 import Contact from './components/Contact';
 import Resume from './components/Resume';
-import { BrowserRouter as Router, Route, Switch, createHashRouter, RouterProvider } from 'react-router-dom';
+import { BrowserRouter as Router, Route, Switch, HashRouter } from 'react-router-dom';
 
 function App() {
-
-  const router = createHashRouter([
-    {
-      path: "/*",
-      element: <App />,
-    }
-  ]);
 
   return (
     <div className="conatiner">
