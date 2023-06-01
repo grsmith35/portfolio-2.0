@@ -1,11 +1,9 @@
 import React from 'react';
 import resume from '../../assets/images/resume.pdf'
-import resumeimg from '../../assets/images/resume.png'
+import resumeimg from '../../assets/images/resume.JPG'
 import './resume.css'
-import { document } from 'react-pdf';
 
 export default function Resume() {
-
 
     return (
         <div className="container">
@@ -29,8 +27,10 @@ export default function Resume() {
                                 <li>HTML5</li>
                                 <li>CSS3</li>
                                 <li>JavaScript</li>
+                                <li>TypeScript</li>
                                 <li>Bootstrap/BootFlat</li>
                                 <li>React</li>
+                                <li>Redux</li>
                                 <li>NPM</li>
                             </ul>
                         </div>
@@ -43,6 +43,7 @@ export default function Resume() {
                                 <li>MVC</li>
                                 <li>SQL</li>
                                 <li>MongoDB</li>
+                                <li>Mongoose</li>
                                 <li>PWA</li>
                             </ul>
                         </div>
